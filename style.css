@@ -1,0 +1,153 @@
+body,button,textarea,input{
+	outline:none;
+	margin:0;
+	font-family:Century Gothic;
+	font-size:10pt;
+}
+textarea{
+	height:100px;
+}
+button,textarea,input{
+	border:1px solid #f3dd85;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	padding:5px;
+	width:100%;
+}
+
+.logo{
+	height:100px;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+a{
+	color:#000;
+	text-decoration:none;
+}
+.header-menu{
+	height:45px;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.hdr-menu{
+	height:45px;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#fbfbfb;
+	border-top:1px solid #f5f5f5;
+	border-bottom:1px solid #f5f5f5;
+}
+.menu{
+	height:15px;
+	position:relative;
+	float:left;
+	padding:15px;
+	margin-left:1px;
+}
+.container{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10px;
+}
+.link-daftar-anggota{
+	position:relative;
+	float:left;
+	width:250px;
+	height:auto;
+	border:1px solid #f5f5f5;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	margin:10px 0px 10px 0px;
+	background-color:#f9f9f9;
+}
+.belas{
+	font-size:20pt;
+}
+.luar-kategori-buku{
+	position:relative;
+	width:72.6%;
+	height:auto;
+	border:1px solid #f5f5f5;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	margin:10px;
+	background-color:#f9f9f9;
+	float:left;
+}
+button:active{
+	margin-left:1px;
+	margin-top:1px;
+}
+button:hover{
+	cursor:pointer;
+}
+.hal{
+	position:relative;
+	width:auto;
+}
+.books{
+	position:relative;
+	float:left;
+	width:200px;
+	height:300px;
+	border-radius:3px;
+	border:1px solid #fbfbfb;
+}
+.books-inner{
+	height:200px;
+}
+.kecil{
+	font-size:15pt;
+}
+.kategori-buku{
+	margin:20px;
+}
+.judulkotak{
+	font-size:12pt;
+}
+.about{
+	padding:30px;
+}
+a:hover{
+	border-bottom:1px solid #999;
+}
+.ldf{
+	margin:20px;
+}
+.luar-banner{
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #f1f1f1;
+	width:100%;
+	height:auto;
+}
+.banner{
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+	width:99%;
+	height:300px;
+	border:5px solid #f6f6f6;
+}
+.ctr-menu{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.menu:hover{
+	background-color:orange;
+}
+.menu.s{
+	background-color:orange;
+}
+button{
+	background-color:#fee0b5;
+}

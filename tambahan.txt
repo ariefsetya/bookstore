@@ -1,0 +1,7 @@
+full name
+gender
+address
+country
+city
+email
+zip
